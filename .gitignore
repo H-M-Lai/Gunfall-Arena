@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+Assets/character/character/
+Assets/character/**/*.zip
+desktop.ini
 
 # C extensions
 *.so
